@@ -1,8 +1,8 @@
 class Classes{
-    constructor(id,name,num){
+    constructor(id,user,pass){
         this.id = id;
-        this.name = name;
-        this.num = num;
+        this.user = user;
+        this.pass = pass;
     }
 }
 
